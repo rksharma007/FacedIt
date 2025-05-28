@@ -13,6 +13,8 @@ Welcome to **FacedIt**, a Google Colab-ready tool to perform real-time face swap
 
 👉 [Click to Run in Google Colab](https://colab.research.google.com/github/rksharma007/FacedIt/blob/main/video_face_swap.ipynb)
 
+👉 [Download the face swap model here](https://huggingface.co/ezioruan/inswapper_128.onnx/resolve/main/inswapper_128.onnx)
+
 ---
 
 ## 📌 Features
@@ -35,5 +37,5 @@ Welcome to **FacedIt**, a Google Colab-ready tool to perform real-time face swap
 
 ## 🔁 Preview
 
-![Face Swap Demo](preview.gif)
+![preview.gif](preview.gif)
 
